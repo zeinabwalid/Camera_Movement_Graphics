@@ -1,6 +1,6 @@
-## Name: Zeinab Walid <br> Section : 1   <br>    B.N: 34
 
-# Task Three
+
+# Camera Movement Task 
 
 ## Implementation: 
 1- Add the full body of assignment 2.<br>
@@ -125,25 +125,25 @@ static void motion(int x, int y)
 ## Results: <br>
 ### Mouse Control for Left & Right Movement.<br>
 
-![picture](left_mouse.png) 
+![picture](left_mouse.PNG) 
 <br>
 
-![picture](right_mouse.png) 
+![picture](right_mouse.PNG) 
 <br>
 
 ### Arrows Control: <br>
 #### 1- Left &  Right . <br>
-![picture](left_arrow.png) 
+![picture](left_arrow.PNG) 
 <br>
 
-![picture](right_arrow.png) 
+![picture](right_arrow.PNG) 
 <br>
 
 #### 2- Up &  Down . <br>
-![picture](up_arrow.png) 
+![picture](up_arrow.PNG) 
 <br>
 
-![picture](down_arrow.png) 
+![picture](down_arrow.PNG) 
 <br>
 
 ## Problems:<br>
