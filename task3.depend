@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1585953185 source:d:\3rd biomedical\second term\graphics\task3\task3\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+976692172 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1585954279 source:d:\3rd biomedical\second term\graphics\task3\sbe306b-2020-assign-3-cameramovement-zeinabwalid\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
